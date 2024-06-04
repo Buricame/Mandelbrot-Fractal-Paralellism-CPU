@@ -1,0 +1,4 @@
+﻿  ParalelOdev1.cpp
+C:\Users\Furkan\source\repos\ParalelOdev1\ParalelOdev1\ParalelOdev1.cpp(93,16): warning C4838: 'int ile 'char arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\Furkan\source\repos\ParalelOdev1\ParalelOdev1\ParalelOdev1.cpp(93,16): warning C4309: 'başlatılıyor': sabit değer kesildi
+  ParalelOdev1.vcxproj -> C:\Users\Furkan\source\repos\ParalelOdev1\x64\Debug\ParalelOdev1.exe
