@@ -1,6 +1,6 @@
 <u><b>**Mandelbrot Fractal Paralellism CPU**<u><b>
 
-This project demonstrates generating the Mandelbrot fractal using CPU parallelization in C++. The parallelization is achieved by distributing the computation across multiple CPU threads. Created for learning purposes.
+This project demonstrates generating the Mandelbrot fractal using CPU parallelization in C++. Created for learning purposes.
 
 <u><b>**Features**<u><b>
 
